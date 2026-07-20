@@ -1,0 +1,876 @@
+** Drc report for Pixie84Servo.kicad_pcb **
+** Created on 2026-07-19T19:28:15 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 219 DRC violations **
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1778 mm)
+    Local override; error
+    @(17.1450 mm, -20.3200 mm): PTH pad 1 [D5] of ICSP0
+    @(15.8750 mm, -19.0500 mm): Track [D6] on B.Cu, length 5.0800 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1778 mm)
+    Local override; error
+    @(12.0650 mm, -17.7800 mm): PTH pad 6 [GND] of ICSP0
+    @(13.3350 mm, -19.0500 mm): Track [RST] on B.Cu, length 7.6200 mm
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(11.4300 mm, -9.8425 mm): Reference field of UNK10
+    @(13.9700 mm, -9.8425 mm): Reference field of UNK9
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -4.4450 mm): Segment of UNK10 on F.Silkscreen
+    @(10.1600 mm, -5.7150 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -4.4450 mm): Segment of UNK10 on F.Silkscreen
+    @(10.1600 mm, -4.4450 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -4.4450 mm): Segment of UNK10 on F.Silkscreen
+    @(9.5250 mm, -6.3500 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -5.7150 mm): Segment of UNK10 on F.Silkscreen
+    @(10.1600 mm, -5.7150 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -5.7150 mm): Segment of RST0 on F.Silkscreen
+    @(10.7950 mm, -3.8100 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -4.4450 mm): Segment of RST0 on F.Silkscreen
+    @(10.7950 mm, -3.8100 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(11.4300 mm, -9.8425 mm): Reference field of UNK10
+    @(8.8900 mm, -9.8425 mm): Reference field of RST0
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -8.2550 mm): Segment of UNK10 on F.Silkscreen
+    @(9.5250 mm, -8.8900 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -8.2550 mm): Segment of UNK10 on F.Silkscreen
+    @(10.1600 mm, -8.2550 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(9.5250 mm, -8.8900 mm): Segment of RST0 on F.Silkscreen
+    @(10.1600 mm, -6.9850 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -8.2550 mm): Segment of RST0 on F.Silkscreen
+    @(10.1600 mm, -6.9850 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -6.9850 mm): Segment of UNK10 on F.Silkscreen
+    @(10.1600 mm, -6.9850 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -5.7150 mm): Segment of UNK10 on F.Silkscreen
+    @(9.5250 mm, -6.3500 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -8.2550 mm): Segment of RST0 on F.Silkscreen
+    @(10.7950 mm, -6.3500 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -6.9850 mm): Segment of RST0 on F.Silkscreen
+    @(10.7950 mm, -6.3500 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -3.1750 mm): Segment of UNK10 on F.Silkscreen
+    @(9.5250 mm, -3.8100 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -3.1750 mm): Segment of UNK10 on F.Silkscreen
+    @(10.1600 mm, -3.1750 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(9.5250 mm, -3.8100 mm): Segment of RST0 on F.Silkscreen
+    @(10.1600 mm, -1.9050 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(9.5250 mm, -1.2700 mm): Segment of RST0 on F.Silkscreen
+    @(10.1600 mm, -1.9050 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -3.1750 mm): Segment of RST0 on F.Silkscreen
+    @(10.1600 mm, -1.9050 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(9.5250 mm, -1.2700 mm): Segment of RST0 on F.Silkscreen
+    @(10.1600 mm, -1.9050 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(10.1600 mm, -1.9050 mm): Segment of UNK10 on F.Silkscreen
+    @(10.1600 mm, -3.1750 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -8.2550 mm): Segment of UNK9 on F.Silkscreen
+    @(12.0650 mm, -8.8900 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.0650 mm, -8.8900 mm): Segment of UNK10 on F.Silkscreen
+    @(12.7000 mm, -6.9850 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.0650 mm, -6.3500 mm): Segment of UNK10 on F.Silkscreen
+    @(12.7000 mm, -5.7150 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.0650 mm, -6.3500 mm): Segment of UNK10 on F.Silkscreen
+    @(12.7000 mm, -4.4450 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -8.2550 mm): Segment of UNK9 on F.Silkscreen
+    @(12.7000 mm, -8.2550 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -8.2550 mm): Segment of UNK10 on F.Silkscreen
+    @(12.7000 mm, -6.9850 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(13.3350 mm, -6.3500 mm): Segment of UNK9 on F.Silkscreen
+    @(12.7000 mm, -8.2550 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -6.9850 mm): Segment of UNK10 on F.Silkscreen
+    @(12.7000 mm, -6.9850 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -6.9850 mm): Segment of UNK10 on F.Silkscreen
+    @(13.3350 mm, -6.3500 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -5.7150 mm): Segment of UNK10 on F.Silkscreen
+    @(12.7000 mm, -5.7150 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -10.7950 mm): Segment on F.Silkscreen
+    @(16.5100 mm, -9.8425 mm): Reference field of UNK8
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(16.5100 mm, -9.8425 mm): Reference field of UNK8
+    @(19.0500 mm, -9.8425 mm): Reference field of UNK7
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(16.5100 mm, -9.8425 mm): Reference field of UNK8
+    @(13.9700 mm, -9.8425 mm): Reference field of UNK9
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -6.9850 mm): Segment of UNK7 on F.Silkscreen
+    @(17.1450 mm, -8.8900 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -8.2550 mm): Segment of UNK7 on F.Silkscreen
+    @(17.1450 mm, -8.8900 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.1450 mm, -6.3500 mm): Segment of UNK8 on F.Silkscreen
+    @(17.7800 mm, -4.4450 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -5.7150 mm): Segment of UNK7 on F.Silkscreen
+    @(17.1450 mm, -6.3500 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -8.2550 mm): Segment of UNK8 on F.Silkscreen
+    @(17.7800 mm, -6.9850 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -8.2550 mm): Segment of UNK8 on F.Silkscreen
+    @(17.7800 mm, -8.2550 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(18.4150 mm, -6.3500 mm): Segment of UNK7 on F.Silkscreen
+    @(17.7800 mm, -8.2550 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -6.9850 mm): Segment of UNK8 on F.Silkscreen
+    @(17.7800 mm, -6.9850 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(18.4150 mm, -6.3500 mm): Segment of UNK7 on F.Silkscreen
+    @(17.7800 mm, -6.9850 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(14.6050 mm, -8.8900 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -8.2550 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.2400 mm, -8.2550 mm): Segment of UNK8 on F.Silkscreen
+    @(15.2400 mm, -8.2550 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(14.6050 mm, -8.8900 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -6.9850 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.2400 mm, -6.9850 mm): Segment of UNK8 on F.Silkscreen
+    @(15.2400 mm, -8.2550 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.2400 mm, -6.9850 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -6.9850 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.8750 mm, -6.3500 mm): Segment of UNK8 on F.Silkscreen
+    @(15.2400 mm, -8.2550 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -5.7150 mm): Segment of UNK8 on F.Silkscreen
+    @(17.7800 mm, -4.4450 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -5.7150 mm): Segment of UNK8 on F.Silkscreen
+    @(17.7800 mm, -5.7150 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -5.7150 mm): Segment of UNK8 on F.Silkscreen
+    @(18.4150 mm, -3.8100 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(14.6050 mm, -6.3500 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -5.7150 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(14.6050 mm, -6.3500 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -4.4450 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.8750 mm, -6.3500 mm): Segment of UNK8 on F.Silkscreen
+    @(15.2400 mm, -6.9850 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.8750 mm, -3.8100 mm): Segment of UNK8 on F.Silkscreen
+    @(15.2400 mm, -5.7150 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.2400 mm, -5.7150 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -5.7150 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.2400 mm, -5.7150 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -4.4450 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -4.4450 mm): Segment of UNK8 on F.Silkscreen
+    @(17.7800 mm, -4.4450 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -10.7950 mm): Segment on F.Silkscreen
+    @(19.0500 mm, -9.8425 mm): Reference field of UNK7
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(14.6050 mm, -3.8100 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -3.1750 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.2400 mm, -3.1750 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -3.1750 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(14.6050 mm, -3.8100 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -1.9050 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(14.6050 mm, -1.2700 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -1.9050 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.2400 mm, -3.1750 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -1.9050 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.8750 mm, -3.8100 mm): Segment of UNK8 on F.Silkscreen
+    @(15.2400 mm, -4.4450 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.2400 mm, -4.4450 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -4.4450 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -5.7150 mm): Segment of UNK10 on F.Silkscreen
+    @(12.7000 mm, -4.4450 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -5.7150 mm): Segment of UNK10 on F.Silkscreen
+    @(13.3350 mm, -3.8100 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -4.4450 mm): Segment of UNK9 on F.Silkscreen
+    @(12.7000 mm, -4.4450 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.0650 mm, -3.8100 mm): Segment of UNK10 on F.Silkscreen
+    @(12.7000 mm, -3.1750 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -1.9050 mm): Segment of UNK9 on F.Silkscreen
+    @(12.0650 mm, -3.8100 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(13.3350 mm, -3.8100 mm): Segment of UNK9 on F.Silkscreen
+    @(12.7000 mm, -4.4450 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -3.1750 mm): Segment of UNK10 on F.Silkscreen
+    @(12.7000 mm, -3.1750 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(14.6050 mm, -1.2700 mm): Segment of UNK9 on F.Silkscreen
+    @(15.2400 mm, -1.9050 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(15.2400 mm, -1.9050 mm): Segment of UNK8 on F.Silkscreen
+    @(15.2400 mm, -3.1750 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.1450 mm, -1.2700 mm): Segment of UNK8 on F.Silkscreen
+    @(17.7800 mm, -1.9050 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -1.9050 mm): Segment of UNK7 on F.Silkscreen
+    @(17.1450 mm, -1.2700 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -3.1750 mm): Segment of UNK8 on F.Silkscreen
+    @(17.7800 mm, -1.9050 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -1.9050 mm): Segment of UNK9 on F.Silkscreen
+    @(12.0650 mm, -1.2700 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -1.9050 mm): Segment of UNK9 on F.Silkscreen
+    @(12.0650 mm, -1.2700 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -1.9050 mm): Segment of UNK9 on F.Silkscreen
+    @(12.7000 mm, -3.1750 mm): Segment of UNK10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(12.7000 mm, -3.1750 mm): Segment of UNK10 on F.Silkscreen
+    @(12.7000 mm, -1.9050 mm): Segment of UNK9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -3.1750 mm): Segment of UNK7 on F.Silkscreen
+    @(17.1450 mm, -3.8100 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -1.9050 mm): Segment of UNK7 on F.Silkscreen
+    @(17.1450 mm, -3.8100 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -4.4450 mm): Segment of UNK8 on F.Silkscreen
+    @(18.4150 mm, -3.8100 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -3.1750 mm): Segment of UNK7 on F.Silkscreen
+    @(17.7800 mm, -3.1750 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(17.7800 mm, -1.9050 mm): Segment of UNK7 on F.Silkscreen
+    @(17.7800 mm, -3.1750 mm): Segment of UNK8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -1.9050 mm): Segment of UNK6 on F.Silkscreen
+    @(19.6850 mm, -1.2700 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -1.9050 mm): Segment of UNK6 on F.Silkscreen
+    @(20.3200 mm, -3.1750 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -1.9050 mm): Segment of UNK6 on F.Silkscreen
+    @(19.6850 mm, -1.2700 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(19.6850 mm, -3.8100 mm): Segment of UNK7 on F.Silkscreen
+    @(20.3200 mm, -3.1750 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -3.1750 mm): Segment of UNK7 on F.Silkscreen
+    @(20.3200 mm, -3.1750 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(19.6850 mm, -3.8100 mm): Segment of UNK7 on F.Silkscreen
+    @(20.3200 mm, -1.9050 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -3.1750 mm): Segment of UNK7 on F.Silkscreen
+    @(20.3200 mm, -1.9050 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.9550 mm, -3.8100 mm): Segment of UNK6 on F.Silkscreen
+    @(20.3200 mm, -4.4450 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.9550 mm, -3.8100 mm): Segment of UNK6 on F.Silkscreen
+    @(20.3200 mm, -5.7150 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -4.4450 mm): Segment of UNK7 on F.Silkscreen
+    @(20.3200 mm, -4.4450 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(19.0500 mm, -9.8425 mm): Reference field of UNK7
+    @(21.5900 mm, -9.8425 mm): Reference field of UNK6
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(19.6850 mm, -8.8900 mm): Segment of UNK7 on F.Silkscreen
+    @(20.3200 mm, -8.2550 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -6.9850 mm): Segment of UNK6 on F.Silkscreen
+    @(19.6850 mm, -8.8900 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -8.2550 mm): Segment of UNK7 on F.Silkscreen
+    @(20.3200 mm, -8.2550 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -8.2550 mm): Segment of UNK7 on F.Silkscreen
+    @(20.3200 mm, -6.9850 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -6.9850 mm): Segment of UNK6 on F.Silkscreen
+    @(20.3200 mm, -6.9850 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -8.2550 mm): Segment of UNK7 on F.Silkscreen
+    @(20.9550 mm, -6.3500 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -6.9850 mm): Segment of UNK7 on F.Silkscreen
+    @(20.9550 mm, -6.3500 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -8.2550 mm): Segment of UNK6 on F.Silkscreen
+    @(22.8600 mm, -6.9850 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -8.2550 mm): Segment of UNK6 on F.Silkscreen
+    @(23.4950 mm, -6.3500 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -8.2550 mm): Segment of UNK6 on F.Silkscreen
+    @(22.8600 mm, -8.2550 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -6.9850 mm): Segment of UNK5 on F.Silkscreen
+    @(22.2250 mm, -8.8900 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -6.9850 mm): Segment of UNK6 on F.Silkscreen
+    @(22.8600 mm, -6.9850 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(21.5900 mm, -9.8425 mm): Reference field of UNK6
+    @(24.1300 mm, -9.8425 mm): Reference field of UNK5
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -8.2550 mm): Segment of UNK5 on F.Silkscreen
+    @(22.2250 mm, -8.8900 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -5.7150 mm): Segment of UNK6 on F.Silkscreen
+    @(19.6850 mm, -6.3500 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -5.7150 mm): Segment of UNK7 on F.Silkscreen
+    @(20.3200 mm, -5.7150 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -4.4450 mm): Segment of UNK6 on F.Silkscreen
+    @(19.6850 mm, -6.3500 mm): Segment of UNK7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(20.3200 mm, -5.7150 mm): Segment of UNK7 on F.Silkscreen
+    @(20.3200 mm, -4.4450 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.2250 mm, -6.3500 mm): Segment of UNK6 on F.Silkscreen
+    @(22.8600 mm, -5.7150 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -4.4450 mm): Segment of UNK5 on F.Silkscreen
+    @(22.2250 mm, -6.3500 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(23.4950 mm, -6.3500 mm): Segment of UNK5 on F.Silkscreen
+    @(22.8600 mm, -6.9850 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -5.7150 mm): Segment of UNK6 on F.Silkscreen
+    @(22.8600 mm, -5.7150 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -4.4450 mm): Segment of UNK5 on F.Silkscreen
+    @(22.8600 mm, -5.7150 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -5.7150 mm): Segment of UNK6 on F.Silkscreen
+    @(23.4950 mm, -3.8100 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -4.4450 mm): Segment of UNK6 on F.Silkscreen
+    @(22.8600 mm, -4.4450 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(25.4000 mm, -1.9050 mm): Segment of UNK4 on F.Silkscreen
+    @(25.4000 mm, -3.1750 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(25.4000 mm, -1.9050 mm): Segment of UNK4 on F.Silkscreen
+    @(24.7650 mm, -1.2700 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(25.4000 mm, -1.9050 mm): Segment of UNK4 on F.Silkscreen
+    @(24.7650 mm, -3.8100 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(25.4000 mm, -1.9050 mm): Segment of UNK4 on F.Silkscreen
+    @(25.4000 mm, -3.1750 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(25.4000 mm, -1.9050 mm): Segment of UNK4 on F.Silkscreen
+    @(24.7650 mm, -1.2700 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(25.4000 mm, -3.1750 mm): Segment of UNK5 on F.Silkscreen
+    @(25.4000 mm, -3.1750 mm): Segment of UNK4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(27.9400 mm, -1.9050 mm): Segment of UNK3 on F.Silkscreen
+    @(27.3050 mm, -1.2700 mm): Segment of UNK4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(27.9400 mm, -1.9050 mm): Segment of UNK3 on F.Silkscreen
+    @(27.9400 mm, -3.1750 mm): Segment of UNK4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(27.3050 mm, -3.8100 mm): Segment of UNK4 on F.Silkscreen
+    @(27.9400 mm, -1.9050 mm): Segment of UNK3 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(27.9400 mm, -1.9050 mm): Segment of UNK3 on F.Silkscreen
+    @(27.3050 mm, -1.2700 mm): Segment of UNK4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(27.9400 mm, -1.9050 mm): Segment of UNK3 on F.Silkscreen
+    @(27.9400 mm, -3.1750 mm): Segment of UNK4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(30.4800 mm, -1.9050 mm): Segment of UNK2 on F.Silkscreen
+    @(29.8450 mm, -1.2700 mm): Segment of UNK3 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(29.8450 mm, -1.2700 mm): Segment of UNK3 on F.Silkscreen
+    @(30.4800 mm, -1.9050 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(30.4800 mm, -1.9050 mm): Segment of UNK2 on F.Silkscreen
+    @(30.4800 mm, -3.1750 mm): Segment of UNK3 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(30.4800 mm, -3.1750 mm): Segment of UNK3 on F.Silkscreen
+    @(30.4800 mm, -1.9050 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(30.4800 mm, -3.1750 mm): Segment of UNK2 on F.Silkscreen
+    @(30.4800 mm, -3.1750 mm): Segment of UNK3 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(27.9400 mm, -3.1750 mm): Segment of UNK3 on F.Silkscreen
+    @(27.9400 mm, -3.1750 mm): Segment of UNK4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(30.4800 mm, -1.9050 mm): Segment of UNK2 on F.Silkscreen
+    @(29.8450 mm, -3.8100 mm): Segment of UNK3 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.2250 mm, -3.8100 mm): Segment of UNK6 on F.Silkscreen
+    @(22.8600 mm, -3.1750 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.2250 mm, -3.8100 mm): Segment of UNK6 on F.Silkscreen
+    @(22.8600 mm, -1.9050 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -4.4450 mm): Segment of UNK6 on F.Silkscreen
+    @(23.4950 mm, -3.8100 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -3.1750 mm): Segment of UNK6 on F.Silkscreen
+    @(22.8600 mm, -3.1750 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -3.1750 mm): Segment of UNK6 on F.Silkscreen
+    @(22.8600 mm, -1.9050 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -3.1750 mm): Segment of UNK6 on F.Silkscreen
+    @(22.8600 mm, -1.9050 mm): Segment of UNK5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -1.9050 mm): Segment of UNK5 on F.Silkscreen
+    @(22.2250 mm, -1.2700 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -1.9050 mm): Segment of UNK5 on F.Silkscreen
+    @(22.2250 mm, -1.2700 mm): Segment of UNK6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(31.7500 mm, -9.8425 mm): Reference field of UNK2
+    @(34.2900 mm, -9.8425 mm): Reference field of UNK1
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(36.8300 mm, -9.8425 mm): Reference field of UNK0
+    @(38.1000 mm, -10.7950 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -8.2550 mm): Segment of UNK2 on F.Silkscreen
+    @(33.6550 mm, -6.3500 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -8.2550 mm): Segment of UNK2 on F.Silkscreen
+    @(33.0200 mm, -8.2550 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -6.9850 mm): Segment of UNK1 on F.Silkscreen
+    @(33.0200 mm, -8.2550 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -5.7150 mm): Segment of UNK1 on F.Silkscreen
+    @(33.0200 mm, -5.7150 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -5.7150 mm): Segment of UNK2 on F.Silkscreen
+    @(33.0200 mm, -4.4450 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.6550 mm, -3.8100 mm): Segment of UNK1 on F.Silkscreen
+    @(33.0200 mm, -5.7150 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(36.8300 mm, -9.8425 mm): Reference field of UNK0
+    @(34.2900 mm, -9.8425 mm): Reference field of UNK1
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(32.3850 mm, -6.3500 mm): Segment of UNK2 on F.Silkscreen
+    @(33.0200 mm, -5.7150 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -4.4450 mm): Segment of UNK1 on F.Silkscreen
+    @(33.0200 mm, -4.4450 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(32.3850 mm, -6.3500 mm): Segment of UNK2 on F.Silkscreen
+    @(33.0200 mm, -4.4450 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -6.9850 mm): Segment of UNK2 on F.Silkscreen
+    @(33.6550 mm, -6.3500 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(34.9250 mm, -6.3500 mm): Segment of UNK1 on F.Silkscreen
+    @(35.5600 mm, -5.7150 mm): Segment of UNK0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(34.9250 mm, -6.3500 mm): Segment of UNK1 on F.Silkscreen
+    @(35.5600 mm, -4.4450 mm): Segment of UNK0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -5.7150 mm): Segment of UNK1 on F.Silkscreen
+    @(35.5600 mm, -5.7150 mm): Segment of UNK0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -5.7150 mm): Segment of UNK1 on F.Silkscreen
+    @(35.5600 mm, -4.4450 mm): Segment of UNK0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(36.1950 mm, -3.8100 mm): Segment of UNK0 on F.Silkscreen
+    @(35.5600 mm, -5.7150 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -4.4450 mm): Segment of UNK1 on F.Silkscreen
+    @(35.5600 mm, -4.4450 mm): Segment of UNK0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(36.1950 mm, -6.3500 mm): Segment of UNK0 on F.Silkscreen
+    @(35.5600 mm, -8.2550 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(36.1950 mm, -6.3500 mm): Segment of UNK0 on F.Silkscreen
+    @(35.5600 mm, -6.9850 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -3.1750 mm): Segment of UNK1 on F.Silkscreen
+    @(33.0200 mm, -3.1750 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(32.3850 mm, -3.8100 mm): Segment of UNK2 on F.Silkscreen
+    @(33.0200 mm, -3.1750 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.6550 mm, -3.8100 mm): Segment of UNK1 on F.Silkscreen
+    @(33.0200 mm, -4.4450 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -3.1750 mm): Segment of UNK0 on F.Silkscreen
+    @(34.9250 mm, -3.8100 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -1.9050 mm): Segment of UNK0 on F.Silkscreen
+    @(34.9250 mm, -3.8100 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(36.1950 mm, -3.8100 mm): Segment of UNK0 on F.Silkscreen
+    @(35.5600 mm, -4.4450 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -3.1750 mm): Segment of UNK0 on F.Silkscreen
+    @(35.5600 mm, -3.1750 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(32.3850 mm, -8.8900 mm): Segment of UNK2 on F.Silkscreen
+    @(33.0200 mm, -8.2550 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(34.9250 mm, -8.8900 mm): Segment of UNK1 on F.Silkscreen
+    @(35.5600 mm, -8.2550 mm): Segment of UNK0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(34.9250 mm, -8.8900 mm): Segment of UNK1 on F.Silkscreen
+    @(35.5600 mm, -6.9850 mm): Segment of UNK0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -8.2550 mm): Segment of UNK1 on F.Silkscreen
+    @(35.5600 mm, -8.2550 mm): Segment of UNK0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -8.2550 mm): Segment of UNK1 on F.Silkscreen
+    @(35.5600 mm, -6.9850 mm): Segment of UNK0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -6.9850 mm): Segment of UNK1 on F.Silkscreen
+    @(35.5600 mm, -6.9850 mm): Segment of UNK0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -1.9050 mm): Segment of UNK1 on F.Silkscreen
+    @(33.0200 mm, -3.1750 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(32.3850 mm, -3.8100 mm): Segment of UNK2 on F.Silkscreen
+    @(33.0200 mm, -1.9050 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -1.9050 mm): Segment of UNK1 on F.Silkscreen
+    @(32.3850 mm, -1.2700 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -1.9050 mm): Segment of UNK1 on F.Silkscreen
+    @(33.0200 mm, -3.1750 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -1.9050 mm): Segment of UNK1 on F.Silkscreen
+    @(32.3850 mm, -1.2700 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -1.9050 mm): Segment of UNK0 on F.Silkscreen
+    @(34.9250 mm, -1.2700 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -1.9050 mm): Segment of UNK0 on F.Silkscreen
+    @(34.9250 mm, -1.2700 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -3.1750 mm): Segment of UNK1 on F.Silkscreen
+    @(35.5600 mm, -1.9050 mm): Segment of UNK0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(35.5600 mm, -1.9050 mm): Segment of UNK0 on F.Silkscreen
+    @(35.5600 mm, -3.1750 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -6.9850 mm): Segment of UNK1 on F.Silkscreen
+    @(32.3850 mm, -8.8900 mm): Segment of UNK2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(33.0200 mm, -6.9850 mm): Segment of UNK2 on F.Silkscreen
+    @(33.0200 mm, -6.9850 mm): Segment of UNK1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(26.6700 mm, -9.8425 mm): Reference field of UNK4
+    @(24.1300 mm, -9.8425 mm): Reference field of UNK5
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(25.4000 mm, -8.2550 mm): Segment of UNK4 on F.Silkscreen
+    @(24.7650 mm, -8.8900 mm): Segment of UNK5 on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(20.3200 mm, -0.6350 mm): PCB text 'PWM' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(44.7675 mm, -15.2400 mm): PCB text 'VCC' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(44.7675 mm, -10.1600 mm): PCB text 'GND' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(12.0650 mm, -21.9075 mm): Footprint text of ICSP0 (RST)
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.0650 mm, -21.9075 mm): Footprint text of ICSP0 (RST)
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(12.0650 mm, -16.1925 mm): Footprint text of ICSP0 (GND)
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.0650 mm, -16.1925 mm): Footprint text of ICSP0 (GND)
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(14.6050 mm, -21.9075 mm): Footprint text of ICSP0 (SCK)
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(14.6050 mm, -21.9075 mm): Footprint text of ICSP0 (SCK)
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(14.6050 mm, -16.1925 mm): Footprint text of ICSP0 (MOSI)
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(14.6050 mm, -16.1925 mm): Footprint text of ICSP0 (MOSI)
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(17.1450 mm, -21.9075 mm): Footprint text of ICSP0 (MISO)
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(17.1450 mm, -21.9075 mm): Footprint text of ICSP0 (MISO)
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(17.1450 mm, -16.1925 mm): Footprint text of ICSP0 (+V)
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(17.1450 mm, -16.1925 mm): Footprint text of ICSP0 (+V)
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6985 mm)
+    Rule: board setup constraints silk text height; warning
+    @(8.8900 mm, -9.8425 mm): Reference field of RST0
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0325 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(41.9100 mm, -14.7320 mm): Reference field of C1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.3739 mm)
+    Rule: board setup constraints silk text height; warning
+    @(41.9100 mm, -14.7320 mm): Reference field of C1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
